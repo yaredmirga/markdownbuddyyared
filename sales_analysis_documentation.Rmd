@@ -1,0 +1,31 @@
+---
+title: "Sales Analysis Documentation"
+author: "Yared Asfaw"
+output: html_document
+---
+
+# Purpose
+
+This script analyzes sales data.
+
+# Inputs
+
+Sales values:
+
+- 120
+- 250
+- 180
+- 300
+- 275
+
+# Code Example
+
+```r
+sales <- c(120,250,180,300,275)
+sum(sales)
+```
+
+# Outputs
+
+- Total sales
+- Average sales
